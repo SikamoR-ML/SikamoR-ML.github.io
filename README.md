@@ -10,6 +10,8 @@
 
 Dota 2 принадлежит Valve. Неофициальный фан-проект. Иллюстрация создана с ИИ.
 
+Создано исключительно в развлекательных целях для сдачи задания по предмету Unix и скриптовые языки!
+
 ## Живая 3D-модель
 
 Пудж отображается через официальный Sketchfab Viewer API 1.12.1. Модель: “Dota 2 | Pudge animated”, sportmajes52, CC BY 4.0: https://sketchfab.com/3d-models/dota-2-pudge-animated-3e0d07fe19334fc1ac4d3cbe0ff8f516
